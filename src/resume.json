@@ -2,9 +2,9 @@
   "basics": {
     "name": "Matt Youn",
     "label": "Account Executive",
-    "picture": "images/jcoelho.webp",
+    "picture": "Matt Youn profile pic.jpg",
     "x_pictureFallback": "images/jcoelho.jpg",
-    "x_title": "Hey there! Glad you're here",
+    "x_title": "Welcome to my Netlify/Github attempt",
     "summary": "Salesperson in tech space, former lawyer (but that's a past life). I love tech, and have been drawn to innovative software companies. I'm using this site to learn GitHub and Netlify.",
     "location": {
       "country": "USA",
